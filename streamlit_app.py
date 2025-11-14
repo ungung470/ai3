@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
        "texts": ["올림피아 보디빌더", "보디빌더", "남미 보디빌더"],
-       "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs8xTLDN5YuAkXRv6gApCdA1tbps02tAUew5TVBB4K9DRLCEVKbQYElNgCkkUy8_J44hPO7U-krIKij6GxEH_nZaeOua-typ47-3gWuw&s=10", "https://.../jjampong2.jpg"],
        "videos": ["https://www.youtube.com/watch?v=Q6FtGzt1hxM"]
      },
 }
