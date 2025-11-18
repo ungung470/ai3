@@ -74,6 +74,18 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs8xTLDN5YuAkXRv6gApCdA1tbps02tAUew5TVBB4K9DRLCEVKbQYElNgCkkUy8_J44hPO7U-krIKij6GxEH_nZaeOua-typ47-3gWuw&s=10", "https://.../jjampong2.jpg"],
        "videos": ["https://www.youtube.com/watch?v=Q6FtGzt1hxM"]
      },
+
+     labels[1]: {
+       "texts": ["올림피아 보디빌더", "보디빌더", "한국 보디빌더"],
+       "images": ["https://i.namu.wiki/i/Fecz_maPZcsgSnTBSkDR0-3hot-MEYBeyxnY1SO-Rj5QMsdKKKr53TqF0_caTSX_YMCGTIZt372IFtx24RRKBg.webp", "https://i.namu.wiki/i/AmeroCzjDMw8vbZHB-LUFFTzgYNsElUJWBYi9a4TGShf7lW4hO94FNpVtVxW2c5yPAk1SvXxhwjYOr_i_I9BTQ.webp"],
+       "videos": ["https://www.youtube.com/watch?v=XsI9gJfqr5M"]
+     },
+
+     labels[2]: {
+       "texts": ["올림피아 챔피언", "보디빌더", "캐나다 보디빌더"],
+       "images": ["https://i.namu.wiki/i/DdNLMGZplgwqrffzgI0qMYSNqW59FDVcu1CgqBCc1XU75CHYKE7a1s9EZ5p4k9sj7meCGR-iCExpztAa5Sfqeg.webp", "https://i.namu.wiki/i/oPdeXcSxJSLFCtwUMd75uDDhHoQRHzSKEkrlaknKc2qZgCnKJc7uDpNV_DBlXJfSy-gOXVmG_Caw7ffpDIck6g.webp"],
+       "videos": ["https://www.youtube.com/watch?v=DozdbwtGE-4"]
+     }
 }
 
 # ======================
